@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap');
+
+.block_input {
+  display: flex;
+  justify-content: center;
+  margin-top: 2.5%;
+}
+
+.container {
+  margin-top: 2.5%;
+  width: 55%;
+ padding-left: 25%;
+
+}

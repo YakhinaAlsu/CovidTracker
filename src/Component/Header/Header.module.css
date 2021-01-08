@@ -1,0 +1,16 @@
+
+.header{
+  padding-top:5%;
+  display: flex;
+  justify-content: center;
+}
+
+.header img {
+    width: 5%;
+    padding-right: 2,5%;
+  }
+
+.header h2 {
+  font-family: 'East Sea Dokdo', cursive;
+  font-size: 25px;
+}
